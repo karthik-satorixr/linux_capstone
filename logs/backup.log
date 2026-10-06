@@ -1,0 +1,5 @@
+[2026-10-06 17:22:44] ERROR: no source directory given. Usage: ./backup.sh <source_directory>
+[2026-10-06 17:22:44] ERROR: source directory '/home/nobody/fake' does not exist
+[2026-10-06 17:22:44] SUCCESS: archived /home/karthik/capstone/data → backup-2026-10-06-1722.tar.gz
+[2026-10-06 17:23:18] SUCCESS: archived /home/karthik/capstone/data → backup-2026-10-06-1723.tar.gz
+[2026-10-06 18:03:01] SUCCESS: archived /home/karthik/capstone/data → backup-2026-10-06-1803.tar.gz

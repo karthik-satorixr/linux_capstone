@@ -1,0 +1,3 @@
+# Keep Linux line endings so the scripts run on Linux after a checkout on Windows
+* text=auto eol=lf
+*.png binary
